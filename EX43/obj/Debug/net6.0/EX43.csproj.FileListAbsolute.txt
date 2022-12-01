@@ -3,3 +3,13 @@ D:\Базовый курс. Тестировщик\C#DZ6\EX43\obj\Debug\net6.0\E
 D:\Базовый курс. Тестировщик\C#DZ6\EX43\obj\Debug\net6.0\EX43.AssemblyInfoInputs.cache
 D:\Базовый курс. Тестировщик\C#DZ6\EX43\obj\Debug\net6.0\EX43.AssemblyInfo.cs
 D:\Базовый курс. Тестировщик\C#DZ6\EX43\obj\Debug\net6.0\EX43.csproj.CoreCompileInputs.cache
+D:\Базовый курс. Тестировщик\C#DZ6\EX43\bin\Debug\net6.0\EX43.exe
+D:\Базовый курс. Тестировщик\C#DZ6\EX43\bin\Debug\net6.0\EX43.deps.json
+D:\Базовый курс. Тестировщик\C#DZ6\EX43\bin\Debug\net6.0\EX43.runtimeconfig.json
+D:\Базовый курс. Тестировщик\C#DZ6\EX43\bin\Debug\net6.0\EX43.dll
+D:\Базовый курс. Тестировщик\C#DZ6\EX43\bin\Debug\net6.0\EX43.pdb
+D:\Базовый курс. Тестировщик\C#DZ6\EX43\obj\Debug\net6.0\EX43.dll
+D:\Базовый курс. Тестировщик\C#DZ6\EX43\obj\Debug\net6.0\refint\EX43.dll
+D:\Базовый курс. Тестировщик\C#DZ6\EX43\obj\Debug\net6.0\EX43.pdb
+D:\Базовый курс. Тестировщик\C#DZ6\EX43\obj\Debug\net6.0\EX43.genruntimeconfig.cache
+D:\Базовый курс. Тестировщик\C#DZ6\EX43\obj\Debug\net6.0\ref\EX43.dll
